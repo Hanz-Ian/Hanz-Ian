@@ -21,7 +21,7 @@
 
 🎯 My aim is to become a Fullstack Developer
  
-📝 I’m currently figuring out what I'm learning right now  🤠
+📝 I’m currently learning Jetpack Compose, penetratrion testing with Kali and Ruby on Rails  🤠
  
 🤝 I’m looking to collaborate on small projects that can help me grow and apply new skills as a developer.
  
