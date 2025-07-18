@@ -8,14 +8,14 @@
 </h1>
 
 <!--- Header Text --->
-<h3 align="center">Future developer..</h3>
+<h3 align="center">Future General IT Person..</h3>
 
 <br/>
 
 <!--- Description --->
 <div align="center">
 
-👋 Yoo welcome to my GitHub and I'm currently in Term 4 (Swapped) of Business Information Technology Program in Red River College.
+👋 Yoo welcome to my GitHub and I'm currently in Term 5 (Co-op) of Business Information Technology Program in Red River College.
 
 💪 Started January 3, 2023 (From Intro to BIT Program) - Present
 
