@@ -19,9 +19,9 @@
 
 💪 Started January 3, 2023 (From Intro to BIT Program) - Present
 
-🎯 My aim is to become a Fullstack Developer
+🎯 My aim is to become an all around IT guy! (Helpdesk Analyst)
  
-📝 I’m currently learning Jetpack Compose, penetratrion testing with Kali and Ruby on Rails  🤠
+📝 I’m currently enhancing my skills on Active Directory, Jira and MECM!  🤠
  
 🤝 I’m looking to collaborate on small projects that can help me grow and apply new skills as a developer.
  
