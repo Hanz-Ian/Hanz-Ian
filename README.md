@@ -8,18 +8,18 @@
 </h1>
 
 <!--- Header Text --->
-<h3 align="center">Future General IT Person..</h3>
+<h3 align="center">Some Random IT Person..</h3>
 
 <br/>
 
 <!--- Description --->
 <div align="center">
 
-👋 Yoo welcome to my GitHub and I'm currently in Term 5 (Co-op) of Business Information Technology Program in Red River College.
+👋 Yoo welcome to my GitHub, I've recently graduated from Business Information Technology Program in Red River College!
 
-💪 Started January 3, 2023 (From Intro to BIT Program) - Present
+💪 Started January 3, 2023 (From Intro to BIT Program) - August 25, 2025!
 
-🎯 My aim is to become an all around IT guy! (Helpdesk Analyst)
+🎯 My aim is to expand my knowledge in I.T. while working as a Service Desk Analyst!
  
 📝 I’m currently enhancing my skills on Active Directory, Jira and MECM!  🤠
  
@@ -46,7 +46,7 @@
     <img src="https://img.shields.io/badge/VSCO-FFFFFF?style=for-the-badge&logo=instagram&logoColor=black" />
   </a>
 
-  <!--- VSCO --->
+  <!--- LinkedIn --->
   <a href="https://www.linkedin.com/in/hanzsamonte/">
     <img src="https://img.shields.io/badge/LinkedIn-87CEEB?style=for-the-badge&logo=invision&logoColor=black" />
   </a>
